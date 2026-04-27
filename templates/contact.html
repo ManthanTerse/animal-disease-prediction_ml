@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block title %}Contact | Pet Disease Prediction Portal{% endblock %}
+
+{% block content %}
+<section class="py-5">
+  <div class="container">
+    <div class="row g-4 align-items-stretch">
+      <div class="col-lg-5">
+        <div class="content-card h-100">
+          <h2 class="mb-3">Contact Us</h2>
+          <p class="text-muted">Have feedback or collaboration ideas? Send us a message and we will get back soon.</p>
+          <div class="mt-4">
+            <p class="mb-2"><i class="bi bi-envelope me-2"></i>animal_disease@petpredict.ai</p>
+            <p class="mb-2"><i class="bi bi-geo-alt me-2"></i>NHITM , Thane, India</p>
+            <p class="mb-0"><i class="bi bi-clock me-2"></i>Mon - Sat, 10:00 AM - 6:00 PM</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-7">
+        <div class="prediction-card p-4">
+          <form action="{{ url_for('contact') }}" method="post" class="row g-3">
+            <div class="col-md-6">
+              <label class="form-label">Name</label>
+              <input type="text" class="form-control" name="name" placeholder="Enter your name" required>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label">Email</label>
+              <input type="email" class="form-control" name="email" placeholder="Enter your email" required>
+            </div>
+            <div class="col-12">
+              <label class="form-label">Message</label>
+              <textarea class="form-control" name="message" rows="5" placeholder="Enter your message" required></textarea>
+            </div>
+            <div class="col-12">
+              <button type="submit" class="btn btn-primary px-4">Send Message</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

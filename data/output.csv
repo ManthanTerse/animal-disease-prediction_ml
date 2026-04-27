@@ -1,0 +1,301 @@
+Expected,Predicted
+Caprine Arthritis Encephalitis,Caprine Arthritis Encephalitis
+Porcine Epidemic Diarrhea Virus,Porcine Epidemic Diarrhea Virus
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Canine Leptospirosis,Canine Leptospirosis
+Canine Hepatitis,Canine Hepatitis
+Feline Panleukopenia Virus,Feline Panleukopenia Virus
+Panleukopenia,Panleukopenia
+Bovine Tuberculosis,Bovine Tuberculosis
+Rabbit Syphilis,Rabbit Syphilis
+Caprine Arthritis Encephalitis Virus,Caprine Arthritis Encephalitis Virus
+Equine Laminitis,Equine Laminitis
+Pasteurellosis,Pasteurellosis
+Swine Influenza,Swine Influenza
+Equine Influenza,Equine Influenza
+Upper Respiratory Infection,Upper Respiratory Infection
+Strangles,Strangles
+Myxomatosis,Myxomatosis
+Pancreatitis,Pancreatitis
+Bovine Respiratory Disease Complex,Bovine Respiratory Disease Complex
+Canine Distemper,Canine Distemper
+Scrapie,Scrapie
+Pancreatitis,Pancreatitis
+Equine Influenza,Equine Influenza
+Myxomatosis,Myxomatosis
+Scrapie,Scrapie
+Ringworm,Ringworm
+Scrapie,Scrapie
+Foot-and-Mouth Disease,Foot-and-Mouth Disease
+Canine Hepatitis,Canine Hepatitis
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Foot-and-Mouth Disease,Foot-and-Mouth Disease
+Swine Fever,Swine Fever
+Swine Influenza,Swine Influenza
+Feline Leukemia Virus,Feline Leukemia Virus
+Bovine Tuberculosis,Bovine Tuberculosis
+Feline Chlamydiosis,Feline Chlamydiosis
+Parvovirus,Parvovirus
+Feline Respiratory Disease Complex,Feline Respiratory Disease Complex
+Caprine Arthritis Encephalitis,Caprine Arthritis Encephalitis
+Swine Fever,Swine Influenza
+Leptospirosis,Leptospirosis
+Feline Leukemia Virus,Feline Leukemia Virus
+Actinobacillus Suis,Actinobacillus Suis
+Bovine Parainfluenza,Bovine Parainfluenza
+Swine Influenza,Swine Influenza
+Feline Infectious Peritonitis,Feline Infectious Peritonitis
+Canine Parvovirus,Canine Parvovirus
+Equine Influenza,Equine Influenza
+Bovine Viral Diarrhea,Bovine Viral Diarrhea
+Equine Infectious Anemia,Equine Infectious Anemia
+Equine Lyme Disease,Equine Lyme Disease
+Canine Distemper,Canine Distemper
+Gastroenteritis,Gastroenteritis
+Canine Parvovirus,Canine Parvovirus
+Snuffles,Snuffles
+Equine Infectious Anemia,Equine Infectious Anemia
+West Nile Virus,West Nile Virus
+Caprine Arthritis,Caprine Arthritis
+Equine Rhinopneumonitis,Equine Rhinopneumonitis
+Bovine Respiratory Disease Complex,Bovine Respiratory Disease Complex
+Actinobacillus Pleuropneumonia,Actinobacillus Pleuropneumonia
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Swine Influenza,Swine Influenza
+Pneumonia,Pneumonia
+Tuberculosis,Bovine Respiratory Disease
+Equine Encephalitis,Equine Encephalitis
+Myxomatosis,Myxomatosis
+Scrapie,Scrapie
+Foot-and-Mouth Disease,Foot-and-Mouth Disease
+Canine Leptospirosis,Canine Leptospirosis
+Bovine Influenza,Bovine Influenza
+Feline Leukemia,Feline Leukemia
+Salmonellosis,Salmonellosis
+Feline Herpesvirus,Feline Herpesvirus
+Parvovirus,Parvovirus
+Bovine Johne's Disease,Bovine Johne's Disease
+Kennel Cough,Kennel Cough
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Bovine Respiratory Disease Complex,Bovine Respiratory Disease Complex
+Gastroenteritis,Gastroenteritis
+Bovine Tuberculosis,Bovine Tuberculosis
+Canine Parvovirus,Canine Parvovirus
+Caprine Pleuropneumonia,Caprine Pleuropneumonia
+Canine Parvovirus,Canine Parvovirus
+Swine Dysentery,Swine Influenza
+Myxomatosis,Myxomatosis
+Feline Respiratory Disease Complex,Feline Respiratory Disease Complex
+Canine Distemper,Canine Distemper
+Canine Hepatitis,Canine Hepatitis
+Bluetongue,Bluetongue
+Feline Infectious Peritonitis,Feline Infectious Peritonitis
+Allergic Rhinitis,Allergic Rhinitis
+Conjunctivitis,Conjunctivitis
+Swine Influenza,Swine Influenza
+Caprine Respiratory Disease,Caprine Respiratory Disease
+Feline Calicivirus,Feline Calicivirus
+Bluetongue,Bluetongue
+Caprine Arthritis Encephalitis,Caprine Arthritis Encephalitis
+Foot-and-Mouth Disease,Foot-and-Mouth Disease
+Equine Osteoarthritis,Equine Osteoarthritis
+Equine Leptospirosis,Equine Leptospirosis
+Feline Leukemia,Conjunctivitis
+Equine Metabolic Syndrome,Equine Metabolic Syndrome
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Kennel Cough,Kennel Cough
+Equine Piroplasmosis,Equine Piroplasmosis
+Feline Herpesvirus,Feline Calicivirus
+Bovine Tuberculosis,Bovine Respiratory Disease
+Parvovirus,Parvovirus
+Equine Influenza,Equine Influenza
+Rabbit Hemorrhagic Disease,Rabbit Hemorrhagic Disease
+Kennel Cough,Kennel Cough
+Equine Cushing's Disease,Equine Cushing's Disease
+Rabbit Viral Hemorrhagic Disease,Rabbit Viral Hemorrhagic Disease
+Feline Calicivirus,Feline Calicivirus
+Caprine Pleuropneumonia,Caprine Pleuropneumonia
+Rabbit Syphilis,Rabbit Syphilis
+Bovine Respiratory Syncytial Virus,Bovine Respiratory Syncytial Virus
+Bovine Tuberculosis,Bovine Respiratory Disease
+Johne's Disease,Johne's Disease
+Swine Flu,Swine Flu
+Caprine Viral Arthritis,Caprine Viral Arthritis
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Equine Encephalomyelitis,Equine Encephalomyelitis
+Caseous Lymphadenitis,Caseous Lymphadenitis
+Rabbit Viral Hemorrhagic Disease,Rabbit Viral Hemorrhagic Disease
+Gastrointestinal Stasis,Gastrointestinal Stasis
+Canine Parvovirus,Canine Parvovirus
+Degenerative Joint Disease,Degenerative Joint Disease
+Distemper,Distemper
+Canine Distemper,Canine Distemper
+Swine Influenza,Swine Influenza
+Canine Cough,Canine Cough
+Canine Parvovirus,Canine Parvovirus
+Scrapie,Scrapie
+Equine Herpesvirus,Equine Leptospirosis
+Feline Calicivirus,Feline Calicivirus
+Bovine Tuberculosis,Bovine Tuberculosis
+Canine Parvovirus,Canine Parvovirus
+Foot and Mouth Disease,Foot and Mouth Disease
+Leptospirosis,Leptospirosis
+Equine Pneumonia,Equine Pneumonia
+Canine Infectious Hepatitis,Canine Infectious Hepatitis
+Rabbit Hemorrhagic Disease,Rabbit Hemorrhagic Disease
+Bluetongue Virus,Bluetongue Virus
+Intestinal Parasites,Intestinal Parasites
+Bovine Tuberculosis,Bovine Tuberculosis
+Actinobacillus Pleuropneumonia,Actinobacillus Pleuropneumonia
+Upper Respiratory Infection,Upper Respiratory Infection
+Footrot,Footrot
+Chlamydia in Sheep,Chlamydia in Sheep
+Feline Infectious Peritonitis,Feline Infectious Peritonitis
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Equine West Nile Virus,Equine West Nile Virus
+Bovine Johne's Disease,Bovine Johne's Disease
+Upper Respiratory Infection,Upper Respiratory Infection
+Feline Herpesvirus,Feline Herpesvirus
+Feline Calicivirus,Feline Calicivirus
+Equine Infectious Anemia,Equine Infectious Anemia
+Gastroenteritis,Gastroenteritis
+Foot and Mouth Disease,Foot and Mouth Disease
+Caprine Viral Arthritis,Caprine Viral Arthritis
+Bovine Tuberculosis,Bovine Tuberculosis
+Canine Hepatitis,Canine Hepatitis
+Foot-and-Mouth Disease,Foot-and-Mouth Disease
+Canine Leptospirosis,Canine Leptospirosis
+Bovine Coccidiosis,Bovine Coccidiosis
+Feline Immunodeficiency Virus,Feline Immunodeficiency Virus
+Feline Chlamydia,Feline Chlamydia
+Equine Herpesvirus,Equine Herpesvirus
+Bluetongue,Bluetongue
+Blue Tongue Virus,Blue Tongue Virus
+Bovine Tuberculosis,Bovine Tuberculosis
+Bovine Viral Diarrhea,Bovine Viral Diarrhea
+Caprine Arthritis Encephalitis,Caprine Arthritis Encephalitis
+Parvovirus,Parvovirus
+Swine Erysipelas,Swine Erysipelas
+Equine Influenza,Equine Influenza
+Parvovirus,Parvovirus
+Equine Arthritis,Equine Arthritis
+Swine Influenza,Swine Influenza
+Canine Flu,Canine Flu
+Feline Asthma,Feline Asthma
+Porcine Epidemic Diarrhea,Porcine Epidemic Diarrhea
+Pasteurellosis,Pasteurellosis
+Porcine Respiratory Disease Complex,Porcine Respiratory Disease Complex
+Scrapie,Scrapie
+Caprine Respiratory Disease,Caprine Respiratory Disease
+Fungal Infection,Fungal Infection
+Canine Distemper,Canine Distemper
+Pneumonia,Pneumonia
+Equine Influenza,Equine Influenza
+Kennel Cough,Canine Cough
+Actinobacillus Pleuropneumonia,Actinobacillus Pleuropneumonia
+Gastroenteritis,Gastroenteritis
+Equine Influenza,West Nile Virus
+Canine Leptospirosis,Canine Leptospirosis
+Equine Metabolic Syndrome,Equine Metabolic Syndrome
+Feline Renal Disease,Feline Renal Disease
+Coccidiosis,Coccidiosis
+Porcine Epidemic Diarrhea,Porcine Epidemic Diarrhea
+Mastitis,Mastitis
+Equine Infectious Anemia,Equine Infectious Anemia
+Bovine Johne's Disease,Bovine Johne's Disease
+Upper Respiratory Infection,Upper Respiratory Infection
+Contagious Ecthyma,Contagious Ecthyma
+Rabbit Hemorrhagic Disease,Rabbit Hemorrhagic Disease
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Feline Calicivirus,Feline Calicivirus
+Bovine Johne's Disease,Bovine Johne's Disease
+Bordetella Infection,Bordetella Infection
+Equine Encephalomyelitis,Equine Encephalomyelitis
+Feline Upper Respiratory Infection,Feline Upper Respiratory Infection
+Actinobacillus Pleuropneumonia,Actinobacillus Pleuropneumonia
+Feline Panleukopenia,Feline Panleukopenia
+Caprine Pleuropneumonia,Caprine Pleuropneumonia
+Feline Rhinotracheitis,Feline Rhinotracheitis
+Feline Herpesvirus,Feline Herpesvirus
+Feline Infectious Peritonitis,Feline Infectious Peritonitis
+Pneumonia,Pneumonia
+Gastroenteritis,Gastroenteritis
+Bovine Respiratory Syncytial Virus,Bovine Respiratory Syncytial Virus
+Caprine Arthritis Encephalitis,Caprine Arthritis Encephalitis
+Pneumonia,Pneumonia
+Pancreatitis,Pancreatitis
+Caprine Pleuropneumonia,Caprine Pleuropneumonia
+Bovine Tuberculosis,Bovine Tuberculosis
+Bovine Mastitis,Bovine Respiratory Disease
+Feline Leukemia Virus,Feline Leukemia Virus
+Gastrointestinal Infection,Gastrointestinal Infection
+Respiratory Infection,Respiratory Infection
+Pasteurellosis,Pasteurellosis
+Goat Pox,Caprine Arthritis Encephalitis
+Johne's Disease,Johne's Disease
+Blue Tongue Virus,Foot-and-Mouth Disease
+Bovine Pneumonia,Bovine Pneumonia
+Caprine Arthritis Encephalitis,Caprine Arthritis Encephalitis
+Bovine Influenza,Bovine Influenza
+Caprine Arthritis Encephalitis,Caprine Arthritis Encephalitis
+Parvovirus,Parvovirus
+Equine Rhinopneumonitis,Equine Rhinopneumonitis
+Caprine Arthritis Encephalitis,Caprine Arthritis Encephalitis
+Gastroenteritis,Gastroenteritis
+Mastitis,Mastitis
+Parvovirus,Parvovirus
+Equine Rhinopneumonitis,Equine Rhinopneumonitis
+Equine Influenza,Equine Influenza
+Parvovirus,Parvovirus
+Coccidiosis,Coccidiosis
+Bovine Respiratory Syncytial Virus,Bovine Respiratory Syncytial Virus
+Swine Influenza,Swine Influenza
+Equine Infectious Anemia,Equine Infectious Anemia
+Swine Influenza,Swine Influenza
+Rabbit Calicivirus,Rabbit Calicivirus
+Equine Laminitis,Equine Laminitis
+Swine Erysipelas,Swine Erysipelas
+Bluetongue Virus,Bluetongue Virus
+Pancreatitis,Pancreatitis
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Swine Flu,Swine Flu
+Mastitis,Mastitis
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Equine Infectious Anemia,Equine Infectious Anemia
+Equine Arthritis,Equine Arthritis
+Feline Infectious Peritonitis,Feline Infectious Peritonitis
+Feline Infectious Peritonitis,Feline Infectious Peritonitis
+Kennel Cough,Kennel Cough
+Equine Arthritis,Equine Arthritis
+Equine Infectious Anemia,Equine Infectious Anemia
+Equine Viral Arteritis,Equine Viral Arteritis
+Feline Leukemia Virus,Feline Leukemia Virus
+Scrapie,Scrapie
+Arthritis,Arthritis
+Blue Tongue Disease,Blue Tongue Disease
+Myxomatosis,Myxomatosis
+Feline Calicivirus,Feline Calicivirus
+Feline Leukemia Virus,Feline Leukemia Virus
+Salmonellosis,Salmonellosis
+Rabbit Hemorrhagic Disease,Rabbit Hemorrhagic Disease
+Equine Laminitis,Equine Laminitis
+Feline Coronavirus,Feline Coronavirus
+Equine Protozoal Myeloencephalitis,Equine Protozoal Myeloencephalitis
+Rabbit Viral Hemorrhagic Disease,Rabbit Viral Hemorrhagic Disease
+Rabbit Hemorrhagic Disease,Rabbit Hemorrhagic Disease
+Feline Upper Respiratory Infection,Feline Upper Respiratory Infection
+Equine Encephalomyelitis,Equine Encephalomyelitis
+Leptospirosis,Leptospirosis
+Feline Herpesvirus,Feline Herpesvirus
+Coccidiosis,Coccidiosis
+Canine Parvovirus,Canine Parvovirus
+Bovine Tuberculosis,Bovine Tuberculosis
+Rabbit Hemorrhagic Disease,Rabbit Hemorrhagic Disease
+Equine Influenza,Equine Influenza
+Mastitis,Mastitis
+Lyme Disease,Lyme Disease
+Enteritis,Enteritis
+Bovine Respiratory Disease,Bovine Respiratory Disease
+Equine Influenza Virus,Equine Influenza Virus
+African Swine Fever,African Swine Fever
+Rabbit Syphilis,Rabbit Syphilis

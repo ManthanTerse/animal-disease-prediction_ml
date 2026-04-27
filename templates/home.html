@@ -1,0 +1,104 @@
+{% extends 'base.html' %}
+
+{% block title %}Home | Pet Disease Prediction Portal{% endblock %}
+
+{% block content %}
+<section class="hero-section py-5">
+  <div class="container">
+    <div class="row align-items-center g-4">
+      <div class="col-lg-6">
+        <span class="badge rounded-pill hero-badge mb-3">Veterinary AI Assistant</span>
+        <h1 class="display-5 fw-bold mb-3">AI Powered Pet Disease Prediction</h1>
+        <p class="lead text-muted mb-4">
+          Our machine learning model analyzes pet details and symptoms to provide fast preliminary disease insights,
+          helping pet owners act early and consult veterinarians with better awareness.
+        </p>
+        <a href="{{ url_for('prediction') }}" class="btn btn-primary btn-lg px-4">Predict Now</a>
+      </div>
+      <div class="col-lg-6">
+        <div class="hero-card p-4">
+          <div class="d-flex align-items-center mb-3">
+            <i class="bi bi-heart-pulse-fill fs-2 me-3 text-primary"></i>
+            <div>
+              <h5 class="mb-1">Smart Health Screening</h5>
+              <p class="mb-0 text-muted">Built for dogs, cats and other pets with quick symptom-based checks.</p>
+            </div>
+          </div>
+          <div class="icon-grid">
+            <div class="icon-pill"><i class="bi bi-shield-check"></i> Vet Aware</div>
+            <div class="icon-pill"><i class="bi bi-robot"></i> ML Powered</div>
+            <div class="icon-pill"><i class="bi bi-clipboard2-pulse"></i> Symptom Input</div>
+            <div class="icon-pill"><i class="bi bi-lightning-charge"></i> Fast Results</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="py-4">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-md-4">
+        <div class="feature-card h-100">
+          <i class="bi bi-lightning-charge-fill feature-icon"></i>
+          <h5>Fast AI prediction</h5>
+          <p>Get model-generated output in seconds to support initial pet health assessment.</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="feature-card h-100">
+          <i class="bi bi-heart feature-icon"></i>
+          <h5>Pet health awareness</h5>
+          <p>Understand possible risks early and know when to seek timely veterinary attention.</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="feature-card h-100">
+          <i class="bi bi-ui-checks-grid feature-icon"></i>
+          <h5>Easy symptom input</h5>
+          <p>Use a guided form to enter pet profile and symptoms in a structured, simple flow.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="about" class="py-5">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-6">
+        <div class="content-card h-100">
+          <h3>About the Project</h3>
+          <p>This portal demonstrates a Flask-based machine learning workflow for pet disease prediction using symptom and profile data.</p>
+          <p>The goal is to provide an educational decision-support tool, not a replacement for professional diagnosis.</p>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="content-card h-100">
+          <h3>How the Model Works</h3>
+          <ol class="mb-0">
+            <li>User submits pet information and symptoms.</li>
+            <li>Input is transformed to model-ready features.</li>
+            <li>Trained model predicts likely disease category.</li>
+            <li>Result is shown as a supportive health insight.</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="pb-5">
+  <div class="container">
+    <div class="content-card">
+      <h3 class="mb-3">Pet Care Tips</h3>
+      <div class="row g-3">
+        <div class="col-md-4"><div class="tip-chip"><i class="bi bi-droplet-half me-2"></i>Keep pets hydrated and monitor appetite changes.</div></div>
+        <div class="col-md-4"><div class="tip-chip"><i class="bi bi-calendar2-check me-2"></i>Follow vaccination and deworming schedules.</div></div>
+        <div class="col-md-4"><div class="tip-chip"><i class="bi bi-activity me-2"></i>Track behavior, sleep, and mobility regularly.</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}
