@@ -17,9 +17,9 @@ The application allows a user to:
 
 The dataset used in this project contains:
 
-- 8 animal types: Dog, Cat, Cow, Sheep, Pig, Horse, Rabbit, and Goat
+- 8 animal types: Dog, Cat, Cow, Sheep, Pig, Horse, Rabbit and Goat
 - about 1500 records
-- 22 columns including symptoms, vitals, and target disease labels
+- 22 columns including symptoms, vitals and target disease labels
 - around 140 disease classes
 
 Main input columns:

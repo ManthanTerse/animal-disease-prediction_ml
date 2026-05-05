@@ -3,18 +3,23 @@ import pandas as pd
 import joblib
 import csv
 import os
+from pathlib import Path
 from datetime import datetime
 from preprocess_utils import preprocess_df
 from feature_engineering import add_engineered_features
 
 app = Flask(__name__)
-app.secret_key = "manthan"
+app.secret_key = os.environ.get("SECRET_KEY", "dev-secret-key-change-me")
 
-CONTACT_FILE = "data/contact_messages.csv"
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = BASE_DIR / "data"
+CONTACT_FILE = DATA_DIR / "contact_messages.csv"
+MODEL_PATH = BASE_DIR / "model.pkl"
 
 def save_message(name, email, message):
-    file_exists = os.path.exists(CONTACT_FILE)
-    with open(CONTACT_FILE, "a", newline="", encoding="utf-8") as f:
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    file_exists = CONTACT_FILE.exists()
+    with CONTACT_FILE.open("a", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         if not file_exists:
             writer.writerow(["timestamp", "name", "email", "message"])
@@ -48,7 +53,6 @@ def home():
 def prediction():
     return render_template("prediction.html")
 
-MODEL_PATH = "model.pkl"
 model_data = joblib.load(MODEL_PATH)
 model = model_data["model"]
 feature_columns = model_data["feature_columns"]

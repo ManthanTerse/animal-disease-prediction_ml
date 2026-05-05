@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="deep-explainer" name="Deep Explanation">
-        <mxGraphModel dx="1893" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+        <mxGraphModel dx="1711" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -14,7 +14,7 @@
                     <mxGeometry x="380" y="120" width="280" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="preprocess" value="Preprocessing Layer&#xa;preprocess_utils.py&#xa;- extract numeric values&#xa;- convert Duration -&gt; Duration_Days&#xa;- clean yes/no fields&#xa;- normalize text fields" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-                    <mxGeometry x="740" y="105" width="300" height="140" as="geometry"/>
+                    <mxGeometry x="730" y="105" width="300" height="140" as="geometry"/>
                 </mxCell>
                 <mxCell id="feature" value="Feature Engineering&#xa;feature_engineering.py&#xa;- Temperature_Category&#xa;- Heart_Rate_Category&#xa;- Severity_Level&#xa;Built for interpretability and result explanation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="1280" y="105" width="330" height="140" as="geometry"/>
@@ -31,7 +31,7 @@
                 <mxCell id="userinput" value="User Form Input&#xa;Animal type, breed, age, gender, weight&#xa;4 symptoms&#xa;clinical yes/no flags&#xa;temperature and heart rate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
                     <mxGeometry x="30" y="525" width="260" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="infer" value="Inference Flow&#xa;1. Collect form values&#xa;2. Build one-row DataFrame&#xa;3. Derive engineered explanation fields&#xa;4. Use saved pipeline for prediction&#xa;5. Render result page" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                <mxCell id="infer" value="Inference Flow&#xa;1. Collect form values&#xa;2. Build one-row DataFrame&#xa;3. Derive engineered explanation fields&#xa;4. Use saved pipeline for prediction&#xa;5. Render result page" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="970" y="520" width="300" height="140" as="geometry"/>
                 </mxCell>
                 <mxCell id="output" value="Prediction Output&#xa;- predicted disease&#xa;- Severity_Level&#xa;- Temperature_Category&#xa;- Heart_Rate_Category" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
