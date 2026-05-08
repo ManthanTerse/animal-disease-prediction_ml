@@ -6,10 +6,10 @@ This project is a Flask-based machine learning web application that predicts pos
 
 The application allows a user to:
 
-- enter animal details such as type, breed, age, weight, and gender
+- enter animal details such as type, breed, age, weight and gender
 - provide symptoms and clinical indicators
 - receive a predicted disease from a trained machine learning model
-- view additional health context such as severity level, temperature category, and heart-rate category
+- view additional health context such as severity level, temperature category and heart-rate category
 - submit messages through a contact form
 - use a rule-based chatbot for navigation and basic symptom guidance
 
@@ -187,4 +187,5 @@ Note:
 
 ## Author
 
-Mini project on animal disease prediction using Machine learning and Flask.
+@ManthanTerse
+
